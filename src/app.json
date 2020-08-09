@@ -43,6 +43,9 @@
     "position": "bottom"
   },
   "usingComponents": {
-    "i-button": "../static/iview/button/index"
+    "i-row": "../static/iview/row/index",
+    "i-col": "../static/iview/col/index",
+    "i-button": "../static/iview/button/index",
+    "i-icon": "../static/iview/icon/index"
   }
 }
